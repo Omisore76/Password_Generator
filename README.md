@@ -6,7 +6,7 @@ If you're like most people, you probably have a hard time coming up with unique 
 
 Simply enter the number of passwords you need and the desired length, and the script will do the rest. The generated passwords will be complex and difficult to crack, but they'll also be easy for you to remember because they'll be based on information that's specific to you. So go ahead and give it a try - your online security depends on it!
 
-![requiremnt!](Images/python_001.png)
+![Image!](Images/image_001.png)
 
 ## How to Use This Repo
 
