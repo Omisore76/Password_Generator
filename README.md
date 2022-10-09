@@ -8,6 +8,9 @@ Simply enter the number of passwords you need and the desired length, and the sc
 
 ![Image!](Images/image_001.png)
 
+## Prerequisite
+- Python3 installed on your local address
+
 ## How to Use This Repo
 
 - Fork the repo
@@ -36,3 +39,6 @@ Simply enter the number of passwords you need and the desired length, and the sc
 ```
 deactivate
 ```
+## Tips
+
+Feel free to edit the code to suit your needs!
