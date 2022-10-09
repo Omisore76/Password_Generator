@@ -33,7 +33,7 @@ Simply enter the number of passwords you need and the desired length, and the sc
 ```
 	python3 Password_Generator.py
 ```
-- Enter the number of password(s) needed, as well as the desired length of your password
+- Enter the number of password(s) needed, as well as the desired length of your password when prompted
 
 - Finally, deactivate the virtual environment once done 
 ```
